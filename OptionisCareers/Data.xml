@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Users>
+    <User>
+      <UserID>1</UserID>
+      <FirstName>Tanmay</FirstName>
+      <LastName>Patil</LastName>
+      <UserName>TaPa</UserName>
+      <Password>password</Password>
+      <Email>TaPa@TaPa.com</Email>
+      <IsRecruiter>0</IsRecruiter>
+    </User>
+    <User>
+      <UserID>2</UserID>
+      <FirstName>Chris</FirstName>
+      <LastName>Jones</LastName>
+      <UserName>ChJo</UserName>
+      <Password>password</Password>
+      <Email>ChJo@ChJo.com</Email>
+      <IsRecruiter>0</IsRecruiter>
+    </User>
+    <User>
+      <UserID>3</UserID>
+      <FirstName>Anne</FirstName>
+      <LastName>Black</LastName>
+      <UserName>AnBa</UserName>
+      <Password>password</Password>
+      <Email>AnBa@AnBa.com</Email>
+      <IsRecruiter>1</IsRecruiter>
+    </User>
+    <User>
+      <UserID>4</UserID>
+      <FirstName>Lisa</FirstName>
+      <LastName>Smith</LastName>
+      <UserName>LiSm</UserName>
+      <Password>password</Password>
+      <Email>LiSm@LiSm.com</Email>
+      <IsRecruiter>1</IsRecruiter>
+    </User>
+  </Users>
+  <Jobs>
+    <Job>
+      <JobID>1</JobID>
+      <Title>Blacksmith</Title>
+      <Description>Blacksmith needed for Horsehoes</Description>
+      <Hours>Full Time</Hours>
+      <Salary>25000</Salary>
+      <DateCreated>01/06/2020</DateCreated>
+      <TimeCreated>08:00:00</TimeCreated>
+      <DateClosed>20/07/2020</DateClosed>
+      <TimeClosed>08:00:00</TimeClosed>
+      <AuthorID>3</AuthorID>
+    </Job>
+    <Job>
+      <JobID>2</JobID>
+      <Title>Nurse</Title>
+      <Description>Nurse needed to treat sick people</Description>
+      <Hours>Full Time</Hours>
+      <Salary>32000</Salary>
+      <DateCreated>02/06/2020</DateCreated>
+      <TimeCreated>09:00:00</TimeCreated>
+      <DateClosed>21/07/2020</DateClosed>
+      <TimeClosed>09:00:00</TimeClosed>
+      <AuthorID>3</AuthorID>
+    </Job>
+    <Job>
+      <JobID>3</JobID>
+      <Title>Police Officer</Title>
+      <Description>Police Officer needed to catch bad people</Description>
+      <Hours>Full Time</Hours>
+      <Salary>28000</Salary>
+      <DateCreated>03/06/2020</DateCreated>
+      <TimeCreated>10:00:00</TimeCreated>
+      <DateClosed>22/07/2020</DateClosed>
+      <TimeClosed>10:00:00</TimeClosed>
+      <AuthorID>4</AuthorID>
+    </Job>
+    <Job>
+      <JobID>4</JobID>
+      <Title>QA Tester</Title>
+      <Description>QA tester needed to make developers miserable</Description>
+      <Hours>Full Time</Hours>
+      <Salary>45000</Salary>
+      <DateCreated>04/06/2020</DateCreated>
+      <TimeCreated>11:00:00</TimeCreated>
+      <DateClosed>23/07/2020</DateClosed>
+      <TimeClosed>11:00:00</TimeClosed>
+      <AuthorID>4</AuthorID>
+    </Job>
+    <Job>
+      <JobID>5</JobID>
+      <Title>Postman</Title>
+      <Description>Postman needed to deliver stuff</Description>
+      <Hours>Full Time</Hours>
+      <Salary>21000</Salary>
+      <DateCreated>05/06/2020</DateCreated>
+      <TimeCreated>12:00:00</TimeCreated>
+      <DateClosed>24/07/2020</DateClosed>
+      <TimeClosed>12:00:00</TimeClosed>
+      <AuthorID>4</AuthorID>
+    </Job>
+    <Job>
+      <JobID>6</JobID>
+      <Title>Fireman</Title>
+      <Description>Put out fires &amp; save cats</Description>
+      <Hours>Full time</Hours>
+      <Salary>41000</Salary>
+      <DateCreated>01/07/2020</DateCreated>
+      <TimeCreated>00:00</TimeCreated>
+      <DateClosed>01/08/2020</DateClosed>
+      <TimeClosed>00:00</TimeClosed>
+      <AuthorID>4</AuthorID>
+    </Job>
+  </Jobs>
+</Data>
